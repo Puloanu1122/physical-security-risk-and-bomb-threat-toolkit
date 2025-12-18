@@ -29,4 +29,9 @@ This repository provides practical guidance, checklists, and frameworks for phys
 
 ## Disclaimer
 This material is for training and preparedness purposes only. It does not replace law enforcement, emergency services, or professional security advice.
+## Templates (Download)
+
+- [Bomb Threat Log](05-templates/bomb-threat-log.docx)
+- [Incident Report Template](05-templates/incident-report-template.docx)
+- [Duty Handover Sheet](05-templates/duty-handover-template.docx)
 
